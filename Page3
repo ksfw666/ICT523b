@@ -1,13 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
+<!DOCTYPE html> 
+ <html> 
+ <body> 
+   <h1>Survey results</h1> 
  <img src="https://user-images.githubusercontent.com/127078599/223418484-98666e69-de5b-440f-82e1-e24f2ab4ee08.png" alt="图片">
- <img src="https://user-images.githubusercontent.com/127078599/223418552-69fe8079-f18a-45dd-bce6-c36d7495b22a.png" alt="图片">
+   <p>Most customers think it is inconvenient to buy .</p > 
+   </body> 
+ </html> 
+<img src="https://user-images.githubusercontent.com/127078599/223418552-69fe8079-f18a-45dd-bce6-c36d7495b22a.png" alt="图片">
+   <p> Only half of our customers are satisfied with our products, which means that our products are not comprehensive and diversified enough.</p > 
  <img src="https://user-images.githubusercontent.com/127078599/223418582-9427490a-c0aa-45ab-9600-6fa04ee7bf74.png" alt="图片">
-
-</body>
-</html> 
+ <p>More than half of our customers are attracted by our product concept, and the concept of green environmental protection is our advantage </p > 
